@@ -1,5 +1,7 @@
 # tour-of-flask
 
+[reference](http://www.pythondoc.com/flask-mega-tutorial/)
+
 ### create virtual environment
 ```shell
 python -m venv flask
